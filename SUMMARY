@@ -1,1 +1,3 @@
-EN: Auto-create missing Android/data app private directories, fix storage space false alarm on custom ROMs. | 中: 自动补全应用缺失的 Android/data 私有存储目录，修复自定义 ROM 下存储空间误报。 | RU: Автосоздание отсутствующих приватных директорий Android/data, исправление ложной ошибки о нехватке места.
+Auto-create missing Android/data app private directories, fix storage space false alarm on custom ROMs.
+自动补全应用缺失的 Android/data 私有存储目录，修复自定义 ROM 下存储空间误报。
+Автосоздание отсутствующих приватных директорий Android/data, исправление ложной ошибки о нехватке места.
